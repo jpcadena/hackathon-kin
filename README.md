@@ -112,12 +112,9 @@ pip install -r requirements.txt
 ### Execution
 
 ```
-uvicorn main:app --host 0.0.0.0 --port 8000
+python main.py
 ```
 
-### Environment credentials
-
-Rename **sample.env** to **.env** and replace your SMTP e-mail credentials.
 
 ### Documentation
 
